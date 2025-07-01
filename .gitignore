@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+myenv/
+env/
+ENV/
+.venv/
+.env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db
+
+# Python test cache
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Mypy type checker
+.mypy_cache/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Pipenv
+Pipfile.lock
+
+# Coverage reports
+coverage.xml
+
+# Logs
+*.log
+
+# dotenv files (secrets)
+.env.*
+*.secret
+*.key
+
+# Wheels
+*.whl
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+
+# Static files (optional, if dynamically generated)
+staticfiles/
+
+# Node modules (if JS frontend involved)
+node_modules/
